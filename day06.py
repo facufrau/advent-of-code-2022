@@ -1,3 +1,4 @@
+# --- Day 6: Tuning Trouble ---
 with open('day06_input.txt') as f:
     data = f.read().strip()
 
